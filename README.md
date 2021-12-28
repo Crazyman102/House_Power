@@ -1,2 +1,2 @@
-# House_Power
-家庭用電量 project
+# House_Power_Project
+ AI_House_Power
